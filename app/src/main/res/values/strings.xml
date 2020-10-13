@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Network State Check</string>
+    <string name="connected">CONNECTED</string>
+    <string name="disconnected">DISCONNECTED</string>
+</resources>
